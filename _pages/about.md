@@ -16,7 +16,7 @@ Robotics AI/ML Code Repeat
 
 📚 PhD Specialization in Robotics Grasping and AI-Driven Control.
 
-🔬 My research interests are in bridging Robotics and AI for human embodiment!
+🔬 My research interests are in bridging Robotics and AI for synergistic embodiment!
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
