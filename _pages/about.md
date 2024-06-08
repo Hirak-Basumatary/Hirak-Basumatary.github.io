@@ -1,7 +1,6 @@
-<img src="/images/Hirak_Header.png" alt="Hirak Header" style="display: block; margin-left: auto; margin-right: auto;" width="300px">
 ---
 permalink: /
-title: "👋🏼 Hello there, welcome to my personal webpage!"
+title: " 👋🏼 Hello there, Welcome to my personal webpage!"
 author_profile: true
 redirect_from: 
   - /about/
