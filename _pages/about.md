@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<p align="center"><img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary.github.io/blob/master/images/Hirak_Header.png" width="1380px" height="300px"></p>
+
 
 ![Robotics AI/ML Code Repeat](/images/Hirak_Coding.gif){: .align-right width="300px"}
 I am a PhD graduate in Robotic Grasping and Manipulation from Indian Institute of Technology (IIT), Guwahati, India. My research and professional interests span across Robotics,  Artificial Intelligence (AI)/Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision. With a solid foundation in these cutting-edge fields, I am passionate about exploring innovative solutions and pushing the boundaries of technology. I am eager to collaborate on exciting projects and contribute as a Roboticist and AI/ML Engineer. Whether you're looking to develop intelligent systems, enhance robotic capabilities, or integrate advanced AI solutions, I'm ready to bring my expertise to the table.
