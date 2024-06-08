@@ -9,9 +9,17 @@ redirect_from:
 
 <p align="center"><img src="/images/Hirak_Header.png" width="1380px" height="300px"></p>
 
+<div style="float: right; width: 300px; text-align: center;">
+    <img src="/images/Hirak_Coding.gif" alt="Robotics AI/ML Code Repeat" width="300px">
+    <p>Robotics AI/ML Code Repeat</p>
+</div>
+
+<!-- >
 Robotics AI/ML Code Repeat
 
 ![Robotics AI/ML Code Repeat](/images/Hirak_Coding.gif){: .align-right width="300px"}
+
+-->
 
 👨🏻‍💻 PhD graduate from Indian Institute of Technology (IIT), Guwahati, India.
 
