@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center"><img src="https://github.com/Hirak-Basumatary/Hirak-Basumatary.github.io/blob/master/images/Hirak_Header.png" width="1380px" height="300px"></p>
+<p align="center"><img src="/images/Hirak_Header.png" width="1380px" height="300px"></p>
 
 
 ![Robotics AI/ML Code Repeat](/images/Hirak_Coding.gif){: .align-right width="300px"}
