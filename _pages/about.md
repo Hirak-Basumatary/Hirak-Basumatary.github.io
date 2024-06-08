@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="float: right; width: 300px; text-align: center;">
     <img src="/images/Hirak_Coding.gif" alt="Robotics AI/ML Code Repeat" width="300px">
-    <p><strong>Robotics AI/ML Code Repeat</strong></p>
+    <p><strong>Motto: Robotics AI/ML Code Repeat</strong></p>
 </div>
 
 <!-- >
@@ -23,15 +23,15 @@ Robotics AI/ML Code Repeat
 
 👨🏻‍💻 PhD graduate from Indian Institute of Technology (IIT), Guwahati, India.
 
-📚 PhD Specialization in Robotics Grasping and AI-Driven Control.
+📚 PhD Specialization in Robotic Grasping and AI-Driven Control.
 
-🔬 My research interests are in bridging Robotics and AI for synergistic embodiment!
+🔬 My research interests are in bridging Robotics and AI/ML for synergistic embodiment!
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 Hirak's Interests
 ======
-My research and professional interests span across Robotics,  Artificial Intelligence (AI)/Machine Learning (ML), Natural Language Processing (NLP), and Computer Vision. With a solid foundation in these cutting-edge fields, I am passionate about exploring innovative solutions and pushing the boundaries of technology. I am eager to collaborate on exciting projects and contribute as a Roboticist and AI/ML Engineer. Whether you're looking to develop intelligent systems, enhance robotic capabilities, or integrate advanced AI solutions, I'm ready to bring my expertise to the table.
+My research and professional interests span across **Robotics**,  **Artificial Intelligence (AI)/Machine Learning (ML)**, **Natural Language Processing (NLP)**, and **Computer Vision**. With a solid foundation in these cutting-edge fields, I am passionate about exploring innovative solutions and pushing the boundaries of technology. I am eager to collaborate on exciting projects and contribute as a **Roboticist and AI/ML Engineer**. Whether you're looking to develop intelligent systems, enhance robotic capabilities, or integrate advanced AI solutions, I'm ready to bring my expertise to the table.
 
 Let's connect and create the future together!
 
