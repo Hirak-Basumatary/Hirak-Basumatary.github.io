@@ -3,20 +3,26 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experience"
+    url: /experience/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "ML Projects"
+    url: /ML-projects/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "NLP Projects"
+    url: /NLP-projects/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Robotics Projects"
+    url: /Robotics-projects/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Computer Vision Projects"
+    url: /Computer-Vision-projects/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Talks/Workshops"
+    url: /talks/
