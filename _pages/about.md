@@ -11,7 +11,7 @@ redirect_from:
 
 <div style="float: right; width: 300px; text-align: center;">
     <img src="/images/Hirak_Coding.gif" alt="Robotics AI/ML Code Repeat" width="300px">
-    <p><strong>Motto: Robotics AI/ML Code Repeat</strong></p>
+    <p><strong>Robotics AI/ML Code Repeat</strong></p>
 </div>
 
 <!-- >
