@@ -7,7 +7,7 @@ main:
     url: /experience/    
 
   - title: "ML Projects"
-    url: /ML-projects/    
+    url: /ML_projects/    
     
   - title: "NLP Projects"
     url: /NLP-projects/
