@@ -7,13 +7,16 @@ main:
     url: /experience/    
 
   - title: "ML Projects"
-    url: /ML-projects/    
+    url: /ML_projects/    
     
   - title: "NLP Projects"
     url: /NLP-projects/
         
   - title: "Robotics Projects"
     url: /Robotics-projects/
+
+  - title: "Portfolio"
+    url: /portfolio/
     
   - title: "Computer Vision Projects"
     url: /Computer-Vision-projects/
