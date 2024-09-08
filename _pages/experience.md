@@ -20,6 +20,7 @@ This involves looking after the entire robotic development stack, including soft
 [Kion Group Website](https://www.kiongroup.com/en/)
 
 ---
+<hr style="border: 2px solid black;">
 
 ### **PhD Research Scholar/Assistant**  
 *Indian Institute of Technology, Guwahati*  
@@ -31,6 +32,7 @@ This involves looking after the entire robotic development stack, including soft
 - Enhanced the robustness of the RL-based bionic reflex controller through adaptive sliding mode control for efficient deployment.
 
 ---
+<hr style="border: 2px solid black;">
 
 ### **Teaching Assistant**  
 *Indian Institute of Technology, Guwahati*  
