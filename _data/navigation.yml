@@ -1,27 +1,31 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# main links links
 main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experience"
+    url: /experience/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "ML Projects"
+    url: /ML_projects/    
     
+  - title: "NLP Projects"
+    url: /NLP-projects/
+        
+  - title: "Robotics Projects"
+    url: /Robotics-projects/
+
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Computer Vision Projects"
+    url: /Computer-Vision-projects/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Skills"
+    url: /skills/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Talks/Workshops"
+    url: /talks/
