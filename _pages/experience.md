@@ -36,7 +36,7 @@ This involves looking after the entire robotic development stack, including soft
 
 ### **Teaching Assistant**  
 *Indian Institute of Technology, Guwahati*  
-*Taught Subjects*:  
+*Subjects Taught*:  
 - Fundamentals of Artificial Intelligence  
 - Robotics and Robot Applications  
 - Robotic Vision and Control  
