@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-%## Experience
+<!-- ## Experience -->
 
 ### Senior Robotics Engineer  
 *Kion Group*  
