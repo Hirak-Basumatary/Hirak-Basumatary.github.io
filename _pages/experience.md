@@ -14,7 +14,9 @@ redirect_from:
 ### Senior Robotics Engineer  
 *Kion Group*  
 *June 2024 - Present*  
-As a Senior Robotics Engineer at Kion Group, I work on cutting-edge robotics solutions to enhance automation in industrial applications. My focus is on developing autonomous systems and leveraging AI to improve operational efficiency.  
+Serving as a Senior Robotics Engineer (Full Stack Developer) at KION Group, the global leader in forklifts and warehouse intralogistics. My responsibilities involve spearheading advanced research at the intersection of autonomous navigation, intelligent control, and data-driven methodologies, while architecting comprehensive digital twin solutions for multi-agent autonomous mobile robots to optimize intralogistics processes and drive automation.
+
+This involves looking after the entire robotic development stack, including software (both front-end and back-end), hardware integration, control systems, user interface and data management of robotic systems. 
 [Kion Group Website](https://www.kiongroup.com/en/)
 
 ---
