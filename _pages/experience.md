@@ -11,7 +11,7 @@ redirect_from:
 
 ## Experience
 
-#### **Senior Robotics Engineer**  
+### Senior Robotics Engineer  
 *Kion Group*  
 *June 2024 - Present*  
 As a Senior Robotics Engineer at Kion Group, I work on cutting-edge robotics solutions to enhance automation in industrial applications. My focus is on developing autonomous systems and leveraging AI to improve operational efficiency.  
@@ -19,7 +19,7 @@ As a Senior Robotics Engineer at Kion Group, I work on cutting-edge robotics sol
 
 ---
 
-#### **PhD Research Scholar/Assistant**  
+### **PhD Research Scholar/Assistant**  
 *Indian Institute of Technology, Guwahati*  
 *July 2017 - June 2024*  
 **PhD Title**: Bionic Reflex Control for an Optimized Underactuated Robotic Hand: A Reinforcement Learning Approach  
@@ -30,7 +30,7 @@ As a Senior Robotics Engineer at Kion Group, I work on cutting-edge robotics sol
 
 ---
 
-#### **Teaching Assistant**  
+### **Teaching Assistant**  
 *Indian Institute of Technology, Guwahati*  
 *Taught Subjects*:  
 - Fundamentals of Artificial Intelligence  
