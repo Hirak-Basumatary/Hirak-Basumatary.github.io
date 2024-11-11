@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "Robotics Projects"
+permalink: /robotics_projects/
 author_profile: true
 redirect_from:
   - /resume
