@@ -11,34 +11,19 @@ redirect_from:
 
 <!-- ## Experience -->
 
-### Senior Robotics Engineer  
-*Kion Group*  
-*June 2024 - Present*  
-Serving as a Senior Robotics Engineer (Full Stack Developer) at KION Group, the global leader in forklifts and warehouse intralogistics. My responsibilities involve spearheading advanced research at the intersection of autonomous navigation, intelligent control, and data-driven methodologies, while architecting comprehensive digital twin solutions for multi-agent autonomous mobile robots to optimize intralogistics processes and drive automation.
+### Reinforcement Learning Control for Robust Grasping 
+*Slippage and Deformation Prevention*  
 
-This involves looking after the entire robotic development stack, including software (both front-end and back-end), hardware integration, control systems, user interface and data management of robotic systems. 
-[Kion Group Website](https://www.kiongroup.com/en/)
-
----
-<hr style="border: 2px solid black;">
-
-### **PhD Research Scholar/Assistant**  
-*Indian Institute of Technology, Guwahati*  
-*July 2017 - June 2024*  
-**PhD Title**: Bionic Reflex Control for an Optimized Underactuated Robotic Hand: A Reinforcement Learning Approach  
-*Guide*: Prof. Shyamanta M. Hazarika  
-- Design optimization of underactuated parameters of a robotic hand based on grasp quality measures using a population-based optimization algorithm.  
-- Developed a bionic reflex controller using reinforcement learning (RL) for slippage and deformation prevention in an anthropomorphic robotic hand.  
-- Enhanced the robustness of the RL-based bionic reflex controller through adaptive sliding mode control for efficient deployment.
+<div style="display: flex; justify-content: space-around;">
+  <img src="C:/Hirak/Hirak_Webpage_2/Hirak-Basumatary.github.io/images/Training_cropped.gif" alt="Training GIF" width="45%">
+  <img src="C:/Hirak/Hirak_Webpage_2/Hirak-Basumatary.github.io/images/Learned_cropped.gif" alt="Learned GIF" width="45%">
+</div>
 
 ---
 <hr style="border: 2px solid black;">
 
-### **Teaching Assistant**  
-*Indian Institute of Technology, Guwahati*  
-*Subjects Taught*:  
-- Fundamentals of Artificial Intelligence  
-- Robotics and Robot Applications  
-- Robotic Vision and Control  
-- Mechatronics  
-- Engineering Mechanics
+### **Imitation Learning based Model Predictive Control**  
+*Learning-based control for Autonomous Navigation*  
+
+---
+<hr style="border: 2px solid black;">
