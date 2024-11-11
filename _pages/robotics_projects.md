@@ -15,8 +15,8 @@ redirect_from:
 *Slippage and Deformation Prevention*  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="C:/Hirak/Hirak_Webpage_2/Hirak-Basumatary.github.io/images/Training_cropped.gif" alt="Training GIF" width="45%">
-  <img src="C:/Hirak/Hirak_Webpage_2/Hirak-Basumatary.github.io/images/Learned_cropped.gif" alt="Learned GIF" width="45%">
+  <img src="/images/Training_cropped.gif" alt="Training GIF" width="45%">
+  <img src="/images/Learned_cropped.gif" alt="Learned GIF" width="45%">
 </div>
 
 ---
@@ -27,7 +27,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-around;">
   <img src="/images/Training_Phase_MPC.gif" alt="Training_MPC GIF" width="45%">
-  <img src="C:/Hirak/Hirak_Webpage_2/Hirak-Basumatary.github.io/images/Learned_MPC.gif" alt="Learned_MPC GIF" width="45%">
+  <img src="/images/Learned_MPC.gif" alt="Learned_MPC GIF" width="45%">
 </div>
 
 ---
