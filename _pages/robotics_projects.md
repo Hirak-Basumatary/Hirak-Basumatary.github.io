@@ -15,8 +15,14 @@ redirect_from:
 *Slippage and Deformation Prevention*  
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="/images/Training_cropped.gif" alt="Training GIF" width="45%">
-  <img src="/images/Learned_cropped.gif" alt="Learned GIF" width="45%">
+  <figure style="text-align: center;">
+    <img src="/images/Training_cropped.gif" alt="Training GIF" width="90%">
+    <figcaption><strong>Training Phase</strong></figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img src="/images/Learned_cropped.gif" alt="Learned GIF" width="90%">
+    <figcaption><strong>Learned Control</strong></figcaption>
+  </figure>
 </div>
 
 ---
