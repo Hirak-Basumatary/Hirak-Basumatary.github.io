@@ -14,15 +14,15 @@ redirect_from:
 ### Reinforcement Learning Control for Robust Grasping 
 *Slippage and Deformation Prevention*  
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <figure style="width: 45%; text-align: center; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="text-align: center; width: 45%;">
     <img src="/images/Training_cropped.gif" alt="Training GIF" style="width: 100%; display: block; margin: 0 auto;">
-    <figcaption style="text-align: center; margin-top: 10px;"><strong>Training Phase</strong></figcaption>
-  </figure>
-  <figure style="width: 45%; text-align: center; margin: 0 auto;">
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Training Phase</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
     <img src="/images/Learned_cropped.gif" alt="Learned GIF" style="width: 100%; display: block; margin: 0 auto;">
-    <figcaption style="text-align: center; margin-top: 10px;"><strong>Learned Control</strong></figcaption>
-  </figure>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Learned Control</p>
+  </div>
 </div>
 
 ---
