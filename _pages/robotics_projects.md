@@ -12,8 +12,8 @@ redirect_from:
 <!-- ## Experience -->
 
 ### Reinforcement Learning Control for Robust Grasping 
-*Slippage and Deformation Prevention*  
-*ROS2 and Gazebo Environment* 
+<span style="font-style: italic; font-weight: bold; color: #333;">Slippage and Deformation Prevention</span>  
+<span style="font-style: italic; color: #555;">ROS2 and Gazebo Environment</span>  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align: center; width: 45%;">
@@ -30,8 +30,8 @@ redirect_from:
 <hr style="border: 2px solid black;">
 
 ### **Imitation Learning based Model Predictive Control (MPC)**  
-*Learning-based control for Autonomous Navigation*  
-*ROS2, NVIDIA Isaac Lab and  Isaac Sim Environment* 
+<span style="font-style: italic; font-weight: bold; color: #333;">Learning-based control for Autonomous Navigation</span>  
+<span style="font-style: italic; color: #555;">ROS2, NVIDIA Isaac Lab and Isaac Sim Environment</span>  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align: center; width: 45%;">
@@ -40,10 +40,9 @@ redirect_from:
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="/images/Learned_MPC.gif" alt="Learned_MPC GIF" style="width: 100%; display: block; margin: 0 auto;">
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Learned-based MPC Control</p>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Learning-based MPC Control</p>
   </div>
 </div>
-
 
 ---
 <hr style="border: 2px solid black;">
