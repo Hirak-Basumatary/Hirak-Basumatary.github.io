@@ -63,7 +63,7 @@ redirect_from:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
   <div style="text-align: center; width: 45%; overflow: hidden; position: relative;">
-    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(10% 10% 10% 10%);">
+    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(0% 0% 0% 0%);">
       <source src="/images/Initial_Training.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
