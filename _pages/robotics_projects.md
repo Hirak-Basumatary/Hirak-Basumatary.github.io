@@ -47,8 +47,6 @@ redirect_from:
 ---
 <hr style="border: 2px solid black;">
 
-
-
 ### **LLM-based Reach Target Position**  
 <span style="font-style: italic; font-weight: bold; color: #333;">Natural Language Instruction for Robotic Arm Reaching Target Position</span>  
 <span style="font-style: italic; color: #555;">PyBullet, HuggingFace Transformers, Stable-Baselines3</span>  
@@ -60,6 +58,23 @@ redirect_from:
       Your browser does not support the video tag.
     </video>
     <p style="text-align: center; font-weight: bold; margin-top: 10px;">LLM-based Robotic Arm Control</p>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+  <div style="text-align: center; width: 45%;">
+    <video controls style="width: 100%; display: block; margin: 0 auto;">
+      <source src="/images/Initial_Training.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Initial State</p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <video controls style="width: 100%; display: block; margin: 0 auto;">
+      <source src="/images/Mid_Training.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Final State</p>
   </div>
 </div>
 
