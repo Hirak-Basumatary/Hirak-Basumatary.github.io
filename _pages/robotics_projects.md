@@ -50,8 +50,8 @@ redirect_from:
 
 
 ### **LLM-based Reach Target Position**  
-<span style="font-style: italic; font-weight: bold; color: #333;">Natural Language Instruction for Robotic Navigation</span>  
-<span style="font-style: italic; color: #555;">ROS2, NVIDIA Isaac Lab and Isaac Sim Environment</span>  
+<span style="font-style: italic; font-weight: bold; color: #333;">Natural Language Instruction for Robotic Arm Reaching Target Position</span>  
+<span style="font-style: italic; color: #555;">PyBullet, HuggingFace Transformers, Stable-Baselines3</span>  
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align: center; width: 90%;">
@@ -59,7 +59,7 @@ redirect_from:
       <source src="/images/LLM_based_User_language_input_RL.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">LLM-based Robotic Control</p>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">LLM-based Robotic Arm Control</p>
   </div>
 </div>
 
