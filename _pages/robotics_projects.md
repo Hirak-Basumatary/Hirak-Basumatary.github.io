@@ -67,14 +67,14 @@ redirect_from:
       <source src="/images/Initial_Training.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Initial State</p>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Training Phase</p>
   </div>
   <div style="text-align: center; width: 45%; overflow: hidden; position: relative;">
-    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(10% 10% 10% 10%);">
+    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(0% 0% 0% 0%);">
       <source src="/images/Mid_Training.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Final State</p>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">Learned Phase</p>
   </div>
 </div>
 
