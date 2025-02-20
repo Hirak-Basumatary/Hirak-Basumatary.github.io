@@ -80,3 +80,21 @@ redirect_from:
 
 ---
 <hr style="border: 2px solid black;">
+
+### **Humanoid Walking based on Reinforcement Learning**  
+<span style="font-style: italic; font-weight: bold; color: #333;">Unitree G1 robot learning to walk based on reinforcement learning</span>  
+<span style="font-style: italic; color: #555;">Mujoco, Jit, Jax, Brax</span>  
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="text-align: center; width: 90%;">
+    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(10% 10% 10% 10%);">
+      <source src="/images/Humanoid_Walking.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center; font-weight: bold; margin-top: 10px;">RL-based Humanoid Walking</p>
+  </div>
+</div>
+
+
+---
+<hr style="border: 2px solid black;">
