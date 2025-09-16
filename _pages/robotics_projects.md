@@ -99,13 +99,9 @@ redirect_from:
 ---
 <hr style="border: 2px solid black;">
 
-### **Visuo-Tactile based Intelligent Grasp Stability Control for Slippage and Deformation Prevention**  
-<span style="font-style: italic; font-weight: bold; color: #333;">Underactuated Tendon-driven Hand learning to grasp without slippage and deformation through robust and adaptive data-driven control</span>  
-<span style="font-style: italic; color: #555;">PyBullet, Tacto, Stable Baselines3</span>  
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <div style="text-align: center; width: 100%;">
-    <video controls style="width: 100%; height: auto; object-fit: cover; clip-path: inset(10% 10% 10% 10%);">
+    <video controls style="width: 100%; height: auto; object-fit: cover;">
       <source src="/images/Deformation_Prevetion_Cropped.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
